@@ -4,7 +4,7 @@ This repository is a comprehensive collection of my competitive programming subm
 ## 📌 Overview
 This archive serves as a personal record of my logic and implementation across different environments. It includes:
 - Platform Submissions: Daily practice and contest participation on major OJs.
-- Official Competitions: Solutions from formal events, ranging from the National Science Olympiad (OSN) to IOI-level selections and other national-level programming contests.
+- Official Competitions: Solutions from formal events, ranging from the National Science Olympiad (OSN) to international-level selections and other national-level programming contests.
 
 ## 🚀 Profiles 
 - TLX: <a href="https://tlx.toki.id/profiles/adoublep">adoublep</a>

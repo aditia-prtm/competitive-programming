@@ -14,3 +14,6 @@ This archive serves as a personal record of my logic and implementation across d
 - Kattis: <a href="https://open.kattis.com/users/m--aditia-putra-pratama">adoublep</a>
 - CSES: <a href="https://cses.fi/user/209134">adPP</a>
 
+## 📚Handbook
+- Antti Laaksonen: https://cses.fi/book/book.pdf
+- TOKI: https://osn.toki.id/data/pemrograman-kompetitif-dasar.pdf

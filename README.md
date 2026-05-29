@@ -8,6 +8,7 @@ This archive serves as a personal record of my logic and implementation across d
 
 ## 🚀 Profiles 
 - TLX: <a href="https://tlx.toki.id/profiles/adoublep">adoublep</a>
+- LeetCode: <a href="https://leetcode.com/u/aditia-prtm/">aditia-prtm</a>
 - Hackerrank: <a href="https://www.hackerrank.com/profile/adoublep268">adoublep268</a>
 - CodeForces: <a href="https://codeforces.com/profile/aditiadoublep">aditiadoublep</a>
 - AtCoder: <a href="https://atcoder.jp/users/adoublep">adoublep</a>
